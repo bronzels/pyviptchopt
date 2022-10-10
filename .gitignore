@@ -1,0 +1,7 @@
+target/
+*.iml
+*.sqlite3
+.idea/
+venv/
+__pycache__/
+*.bak
